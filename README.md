@@ -15,4 +15,5 @@ RESULTS:
 ![Results Python Code](https://github.com/user-attachments/assets/d626a6e7-2a0a-43ac-96f4-38d1afed2cdc)
 And the estimated from the code is verified directly with the Google Earth Pro Polygon Data already in the software,![Google Earth Verification](https://github.com/user-attachments/assets/eed0f0af-49bf-48c5-808e-ea285c4fa819)
 
-
+The program, compared to Google Earth Results, has an accuracy of 99.80%, so it possesses the same capabilities as of Google Earth Pro to handle the data and measurement based on the KML format. 
+Any suggestions or contributions for feedback to advance this project or Remote Sensing Technology, here is my LinkedIn: www.linkedin.com/in/rubenfigueroaa
